@@ -1,0 +1,22 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${.env:PATH};C:/Windows/System32;%SystemRoot%/System32/Wbem;D:/Git/024000/bin;${workspaceFolder}/_/Program/__0_0_0__/conda/Miniconda/Scripts"
+    },
+    "terminal.integrated.profiles.windows": {
+        "ps1_conda": {
+            "overrideName" : true,
+            "source": "PowerShell",
+            "args": [
+                "-ExecutionPolicy",
+                "ByPass",
+                "-NoExit",
+                "-Command",
+                "& ${workspaceFolder}/_/Program/__0_0_0__/conda/Miniconda/shell/condabin/conda-hook.ps1"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "ps1_conda",
+
+    "python.defaultInterpreterPath": "${workspaceFolder}/_/Program/__0_0_0__/conda/Miniconda/python.exe",
+    "python.terminal.activateEnvironment": true
+}
