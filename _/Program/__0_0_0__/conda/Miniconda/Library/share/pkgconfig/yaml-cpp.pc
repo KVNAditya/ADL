@@ -1,0 +1,11 @@
+prefix=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: Yaml-cpp
+Description: A YAML parser and emitter for C++
+Version: 0.7.0
+Requires:
+Libs: -L${libdir} -lyaml-cpp
+Cflags: -I${includedir}

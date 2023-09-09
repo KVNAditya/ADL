@@ -1,0 +1,24 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "features": "",
+  "fn": "certifi-2023.5.7-py311haa95532_0.conda",
+  "legacy_bz2_md5": "0416337401378c484daca42dbde0290d",
+  "legacy_bz2_size": 158627,
+  "license": "MPL-2.0",
+  "license_family": "Other",
+  "md5": "04d8f75bec3603dbb7a7888ee900f167",
+  "name": "certifi",
+  "sha256": "6aa4204bb3ed714a4956f8ee63d3861145305999160164366b22ed6d90a1fb00",
+  "size": 157569,
+  "subdir": "win-64",
+  "timestamp": 1683875434399,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2023.5.7-py311haa95532_0.conda",
+  "version": "2023.5.7"
+}

@@ -1,0 +1,25 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "zstandard >=0.15"
+  ],
+  "features": "",
+  "fn": "conda-package-streaming-0.8.0-py311haa95532_0.conda",
+  "legacy_bz2_md5": "213c0c61116f5a798cb4edb8406d7f11",
+  "legacy_bz2_size": 33324,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "45a022e61bd44fb0aca176a7039f3b53",
+  "name": "conda-package-streaming",
+  "sha256": "1a51a4a3dcb054efa839895a42775f93c70ffd8b1fff0465214e3ec2a46eae2c",
+  "size": 35181,
+  "subdir": "win-64",
+  "timestamp": 1685019873810,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/conda-package-streaming-0.8.0-py311haa95532_0.conda",
+  "version": "0.8.0"
+}

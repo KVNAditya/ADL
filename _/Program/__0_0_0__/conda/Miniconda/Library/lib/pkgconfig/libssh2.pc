@@ -1,0 +1,17 @@
+###########################################################################
+# libssh2 installation details
+###########################################################################
+
+prefix=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libssh2
+URL: https://www.libssh2.org/
+Description: Library for SSH-based communication
+Version: 1.11.0
+Requires.private: libssl,libcrypto,zlib,zlib
+Libs: -L${libdir} -lssh2 -lcrypt32 -lbcrypt -lws2_32
+Libs.private: -lcrypt32 -lbcrypt -lws2_32
+Cflags: -I${includedir}

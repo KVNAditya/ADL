@@ -1,0 +1,12 @@
+prefix=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library
+exec_prefix=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library
+libdir=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library/lib
+includedir=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

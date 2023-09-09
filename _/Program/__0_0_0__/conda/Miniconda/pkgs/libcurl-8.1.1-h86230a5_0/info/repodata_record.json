@@ -1,0 +1,28 @@
+{
+  "build": "h86230a5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libssh2 >=1.10.0",
+    "libssh2 >=1.10.0,<2.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib >=1.2.13,<1.3.0a0"
+  ],
+  "features": "",
+  "fn": "libcurl-8.1.1-h86230a5_0.conda",
+  "legacy_bz2_md5": "cc1f82beb7d4c258263c12785caae23e",
+  "legacy_bz2_size": 326718,
+  "license": "curl",
+  "license_family": "MIT",
+  "md5": "f59ed07e6fedd81fc30134be1a03ef31",
+  "name": "libcurl",
+  "sha256": "9011f385e79a8f590cf7bde90202862744acc5b6b4272e00a86f3cb7e8ef3b43",
+  "size": 340068,
+  "subdir": "win-64",
+  "timestamp": 1685433002097,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libcurl-8.1.1-h86230a5_0.conda",
+  "version": "8.1.1"
+}

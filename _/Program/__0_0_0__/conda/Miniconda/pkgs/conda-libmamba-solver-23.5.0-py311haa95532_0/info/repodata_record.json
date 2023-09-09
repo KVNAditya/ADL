@@ -1,0 +1,27 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "boltons >=23.0.0",
+    "conda >=23.5.0",
+    "libmambapy >=1.4.1",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "features": "",
+  "fn": "conda-libmamba-solver-23.5.0-py311haa95532_0.conda",
+  "legacy_bz2_md5": "8a3d6fa08a63d9c0a2ada06613022dd0",
+  "legacy_bz2_size": 80867,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "8622f363e920c96b51d8945ed6b7b80b",
+  "name": "conda-libmamba-solver",
+  "sha256": "f387fb9c29fede7a5b8ad6e74599db75ef184869b225c2c8848478ab5d06a83c",
+  "size": 86084,
+  "subdir": "win-64",
+  "timestamp": 1685032501504,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/conda-libmamba-solver-23.5.0-py311haa95532_0.conda",
+  "version": "23.5.0"
+}

@@ -1,0 +1,129 @@
+{
+  "build": "py311ha68e1ae_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "python_abi 3.11.* *_cp311",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vs2015_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "d:\\conda\\Anaconda\\pkgs\\pycosat-0.6.4-py311ha68e1ae_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/test_pycosat.cpython-311.pyc",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/INSTALLER",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/LICENSE",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/METADATA",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/RECORD",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/REQUESTED",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/WHEEL",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/direct_url.json",
+    "Lib/site-packages/pycosat-0.6.4.dist-info/top_level.txt",
+    "Lib/site-packages/pycosat.cp311-win_amd64.pyd",
+    "Lib/site-packages/test_pycosat.py",
+    ".nonadmin"
+  ],
+  "fn": "pycosat-0.6.4-py311ha68e1ae_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "d:\\conda\\Anaconda\\pkgs\\pycosat-0.6.4-py311ha68e1ae_1",
+    "type": 1
+  },
+  "md5": "c7af04cd8a66f6d782982751200239d0",
+  "name": "pycosat",
+  "package_tarball_full_path": "d:\\conda\\Anaconda\\pkgs\\pycosat-0.6.4-py311ha68e1ae_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/test_pycosat.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c734a3ce26e949ecd3572ae0c5221edb726141835ce0bcf6175a7cf6d4ec9be3",
+        "sha256_in_prefix": "c734a3ce26e949ecd3572ae0c5221edb726141835ce0bcf6175a7cf6d4ec9be3",
+        "size_in_bytes": 25658
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "233d9a3b1d9e0d8afb120ee76b98e65c55ede04162fe37c2e803a3d38968021e",
+        "sha256_in_prefix": "233d9a3b1d9e0d8afb120ee76b98e65c55ede04162fe37c2e803a3d38968021e",
+        "size_in_bytes": 1084
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0f766ac22ea91a19ac503a5d3331b3efb3f502fa3f97454812da14709d724d00",
+        "sha256_in_prefix": "0f766ac22ea91a19ac503a5d3331b3efb3f502fa3f97454812da14709d724d00",
+        "size_in_bytes": 5434
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1a47e2c85ce3823a1f42051e2abcc483322ea99b6fd259cfa4628e1b5e2d1dd6",
+        "sha256_in_prefix": "1a47e2c85ce3823a1f42051e2abcc483322ea99b6fd259cfa4628e1b5e2d1dd6",
+        "size_in_bytes": 866
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4f1c14795fb71c46e38d7550eea9d4648290e088a7859615feb9a4c2af3833f6",
+        "sha256_in_prefix": "4f1c14795fb71c46e38d7550eea9d4648290e088a7859615feb9a4c2af3833f6",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "84a78a245d0fbfc62cb0b9fc73316411bedcb0cfdbfea37e882e96ab866ac8a5",
+        "sha256_in_prefix": "84a78a245d0fbfc62cb0b9fc73316411bedcb0cfdbfea37e882e96ab866ac8a5",
+        "size_in_bytes": 68
+      },
+      {
+        "_path": "Lib/site-packages/pycosat-0.6.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "47df40ce884f9595883a39b54562bd8afea8e1dfd82b39165099c771ccd838d1",
+        "sha256_in_prefix": "47df40ce884f9595883a39b54562bd8afea8e1dfd82b39165099c771ccd838d1",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "Lib/site-packages/pycosat.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "d42eb0ac173c3ff5c99cff4bba16faf7d09186b8a0b8a5def97a206b79710133",
+        "sha256_in_prefix": "d42eb0ac173c3ff5c99cff4bba16faf7d09186b8a0b8a5def97a206b79710133",
+        "size_in_bytes": 69120
+      },
+      {
+        "_path": "Lib/site-packages/test_pycosat.py",
+        "path_type": "hardlink",
+        "sha256": "f7bcef178eabacb9c477ba20b88e8646ade28c86c23ed9327eecc8144777d8b2",
+        "sha256_in_prefix": "f7bcef178eabacb9c477ba20b88e8646ade28c86c23ed9327eecc8144777d8b2",
+        "size_in_bytes": 8806
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8de24e33f221b3b5af45d40837f321b15e1b591ff60b9b6006e612c41d9d2121",
+  "size": 105196,
+  "subdir": "win-64",
+  "timestamp": 1666837535226,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pycosat-0.6.4-py311ha68e1ae_1.tar.bz2",
+  "version": "0.6.4"
+}
