@@ -1,8 +1,0 @@
-libdir=C:/b/abs_39med2zgon/croot/libsolv-suite_1666283522572/_h_env/Library/lib
-includedir=C:/b/abs_39med2zgon/croot/libsolv-suite_1666283522572/_h_env/Library/include
-
-Name: libsolv
-Description: Library for solving packages
-Version: 0.7.22
-Libs: -L${libdir} -lsolv
-Cflags: -I${includedir}

@@ -1,9 +1,0 @@
-libdir=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library/lib
-includedir=e:/BTech/CMRTC/CSE-DS/Academics/Project/Batch04__MajorProject/ADL/_/Program/__0_0_0__/conda/Miniconda/Library/include
-
-Name: libsolvext
-Description: Library for reading repositories
-Version: 0.7.24
-Requires: libsolv
-Libs: -L${libdir} -lsolvext
-Cflags: -I${includedir}
