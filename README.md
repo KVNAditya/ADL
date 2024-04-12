@@ -3,9 +3,9 @@
   <hr/>
   <br/>
   <div>
-    <div>Designed and Developed by :</div>
+    <div><b>Designed and Developed by :</b></div>
     Kothapalli Venkata Naga Aditya (207R1A67E6)<br/>Tangadapally Vaishnavi Sagar (207R1A67H9)<br/>Komandla Karthik (207R1A67E4)
-    <div>Under the guidance of :</div>
+    <div><b>Under the guidance of :</b></div>
     Mr. Banothu Ramji <br/>
     <div>(Assistant Professor)</div>
     <br/>
